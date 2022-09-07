@@ -1,0 +1,11 @@
+h3 {
+    font-size: 1.75em;
+    font-weight: 500;
+    height: auto;
+    text-align: center;
+}
+
+.author {
+    text-align: right;
+    font-size: 1em;
+}
